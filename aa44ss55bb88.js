@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Jalankan otomatis setiap 4 detik
   function startAutoSlide() {
-    intervalId = setInterval(nextSlide, 4000);
+    intervalId = setInterval(nextSlide, 5000);
   }
 
   function restartAutoSlide() {
