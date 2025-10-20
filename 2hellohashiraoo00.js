@@ -1,4 +1,4 @@
-let totalSeconds = 11 * 60 * 60;
+let totalSeconds = 13 * 60 * 60;
 
         function updateCountdown() {
             if (totalSeconds <= 0) {
