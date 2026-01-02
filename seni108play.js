@@ -8,7 +8,7 @@
  * Hashira Assets
  */
 
-let totalSeconds = 22 * 60 * 60; 
+let totalSeconds = 24 * 60 * 60; 
 
         function updateCountdown() {
             if (totalSeconds <= 0) {
